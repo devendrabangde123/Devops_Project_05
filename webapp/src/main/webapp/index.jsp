@@ -57,6 +57,9 @@
     <input type="text" placeholder="Enter_Driving_License_No" name="EnterAdharNo" id="EnterDrivingLicenseNo" required>
     <br>
 
+    <h1> This is complete CI-CD Devops Pipeline Project by Mr. Sai from Saidemy!!  </h1>
+    <h1> Thank You, Happy Learning!! </h1>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
